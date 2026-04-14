@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DemoBlazorApp/obj/Debug/net8.0
+/DemoBlazorApp/.vs/DemoBlazorApp.slnx/FileContentIndex/ac953d96-8530-4121-8fd1-95be100547a3.vsidx
+/DemoBlazorApp/.vs/DemoBlazorApp.slnx/v18/.suo
+/DemoBlazorApp/.vs/DemoBlazorApp.slnx/v18/DocumentLayout.backup.json
+/DemoBlazorApp/.vs/DemoBlazorApp.slnx/v18/DocumentLayout.json
+/DemoBlazorApp/obj/DemoBlazorApp.csproj.nuget.dgspec.json
+/DemoBlazorApp/obj/DemoBlazorApp.csproj.nuget.g.props
+/DemoBlazorApp/obj/DemoBlazorApp.csproj.nuget.g.targets
+/DemoBlazorApp/obj/project.assets.json
+/DemoBlazorApp/obj/project.nuget.cache
+/DemoBlazorApp/bin/Debug/net8.0/appsettings.Development.json
+/DemoBlazorApp/bin/Debug/net8.0/appsettings.json
+/DemoBlazorApp/bin/Debug/net8.0/DemoBlazorApp.deps.json
+/DemoBlazorApp/bin/Debug/net8.0/DemoBlazorApp.dll
+/DemoBlazorApp/bin/Debug/net8.0/DemoBlazorApp.exe
+/DemoBlazorApp/bin/Debug/net8.0/DemoBlazorApp.pdb
+/DemoBlazorApp/bin/Debug/net8.0/DemoBlazorApp.runtimeconfig.json
+/DemoBlazorApp/bin/Debug/net8.0/DemoBlazorApp.staticwebassets.endpoints.json
+/DemoBlazorApp/bin/Debug/net8.0/DemoBlazorApp.staticwebassets.runtime.json
